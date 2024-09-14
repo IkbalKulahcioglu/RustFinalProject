@@ -1,0 +1,10 @@
+/Users/ikbalkulahcioglu/Desktop/Rust/rustProject/target/release/deps/libversion_check-229288d4be85e0a1.rmeta: /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/ikbalkulahcioglu/Desktop/Rust/rustProject/target/release/deps/libversion_check-229288d4be85e0a1.rlib: /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/ikbalkulahcioglu/Desktop/Rust/rustProject/target/release/deps/version_check-229288d4be85e0a1.d: /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs:
+/Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs:
+/Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs:
+/Users/ikbalkulahcioglu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs:
